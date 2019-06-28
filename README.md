@@ -3,6 +3,6 @@
 - `$ yarn`
 - `$ yarn gql:generate`
 
-Запрос: [GetStation.graphql.tsx](src/queries/GetStation.graphql.tsx)
+Запрос: [GetStationQuery.graphql.tsx](src/queries/GetStationQuery.graphql.tsx)
 
-Сгенеренные тайпинги: [GetStation.ts](src/__gql__/GetStation.ts), [GetStationQuery.ts](src/__gql__/GetStationQuery.ts)
+Сгенеренные тайпинги: [GetStationQuery.ts](src/__gql__/GetStationQuery.ts)
