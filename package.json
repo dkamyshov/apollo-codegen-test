@@ -1,0 +1,14 @@
+{
+  "name": "apollo-codegen-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "gql:generate": "apollo client:codegen --target typescript --outputFlat src/__gql__"
+  },
+  "devDependencies": {
+    "apollo": "^2.15.0",
+    "graphql-tag": "^2.10.1",
+    "typescript": "^3.5.2"
+  }
+}
